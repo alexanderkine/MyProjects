@@ -1,0 +1,6 @@
+E:\My projects\PrimDijkstra\PrimDijkstra\bin\Debug\PrimDijkstra.exe.config
+E:\My projects\PrimDijkstra\PrimDijkstra\bin\Debug\PrimDijkstra.exe
+E:\My projects\PrimDijkstra\PrimDijkstra\bin\Debug\PrimDijkstra.pdb
+E:\My projects\PrimDijkstra\PrimDijkstra\obj\Debug\PrimDijkstra.csprojResolveAssemblyReference.cache
+E:\My projects\PrimDijkstra\PrimDijkstra\obj\Debug\PrimDijkstra.exe
+E:\My projects\PrimDijkstra\PrimDijkstra\obj\Debug\PrimDijkstra.pdb
